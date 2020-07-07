@@ -21,7 +21,7 @@ redirect_from:
 * Distributed Extract, Transform and Load (ETL) processing
 * [Here](http://IsamAljawarneh.github.io/files/research_statement_Aljawarneh.pdf) my research statement.
 
-# Research Activities
+# Recent Research Activities
 * **March 2020 - present**: Postdoctoral Fellow at the Departament of Computer Science and Engineering.
   * **Supervisor**: [Professor Rebecca Montanari](https://www.unibo.it/sitoweb/rebecca.montanari/cv-en).
   * **Team**: [Mobile Middleware Research Group](https://middleware.unibo.it/) in [Department of Computer Science and Engineering](https://disi.unibo.it/it/) at the [University of Bologna](https://www.unibo.it/en).
