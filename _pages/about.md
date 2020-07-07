@@ -41,8 +41,7 @@ redirect_from:
 * International Journal of Distributed Sensor Networks **(IJDSN)**, since 2018
 * **Concurrency and computation: practice and experience**, since 2018
 * **Information Development** – SAGE – since 2015
-      [P.S. Information available through publons:]
-      (https://publons.com/researcher/1547696/isam-mashhour-al-jawarneh/)
+* [P.S. Information available through publons:](https://publons.com/researcher/1547696/isam-mashhour-al-jawarneh/)
 * Reviewer for the international conferences/workshops:
 * 25th IEEE Symposium on Computers and Communications **(ISCC)**, 2020
 * **6th International Conference on Cloud and Big Data Computing, 2020**
