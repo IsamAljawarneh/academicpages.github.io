@@ -1,7 +1,7 @@
 ---
 title: "QoS-Aware Big Geospatial Data Processing"
 collection: talks
-type: "Talk"
+type: "Poster Presentation"
 permalink: /talks/eBISS2017
 venue: "Brussels, Belgium"
 date: 2017-07-02
