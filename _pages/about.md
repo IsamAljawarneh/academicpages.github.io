@@ -50,4 +50,9 @@ redirect_from:
 * IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications **(PIMRC)** (2019)
 * IEEE Wireless Communications and Networking Conference **(WCNC)**, 2019
 
+  ---------
   
+  # News
+* June, 2020: Our paper entitled "Big Spatial Data Management for the Internet of Things: A Survey" has been accepted for publication at [Springer's Journal of Network and Systems Management](https://www.springer.com/journal/10922).
+* April 2, 2020: I have succussfully defended my PhD thesis entitled "Quality of Service Aware Data Stream Processing for Highly Dynamic and Scalable Applications. [Thesis is available online](http://amsdottorato.unibo.it/9402/1/PhD-Thesis-ALJAWARNEH.pdf) and has been awarded the Ph.D. Degree in Computer Science and Engineering.
+* More news to come, stay attuned!
