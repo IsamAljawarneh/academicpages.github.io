@@ -1,7 +1,7 @@
 ---
 title: "Quality of Service Aware Data Stream Processing for Highly Dynamic and Scalable Applications"
 collection: talks
-type: "PhD defense"
+type: "PhD thesis defense"
 permalink: /talks/phd_defense
 venue: "University of Bologna"
 date: 2020-04-02
