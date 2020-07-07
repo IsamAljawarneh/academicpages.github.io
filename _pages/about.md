@@ -13,7 +13,7 @@ redirect_from:
 * 
 * 
 
-# Research Interests
+# Research Topics
 * Middleware for dynamic and adaptive services in big data management scenarios. Specifically, I am interested in working with spatiotemporal and time-series IoT data
 * Processing of highly burst data streaming workloads with guarantees of Quality of Service. Specifically, for spatially-tagged and temporal big datasets.
 * Context-aware computing. For example, context-aware recommender systems based on latest trending Deep Learning models.
