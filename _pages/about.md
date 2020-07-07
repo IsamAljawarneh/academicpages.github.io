@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Postdoctoral Fellow in the [Department of Computer Science and Engineering](http://www.cs.toronto.edu/) at the [University of Bologna](https://disi.unibo.it/it/). [[Curriculum Vitae]](http://IsamAljawarneh.github.io/files/IsamAljawarneh-CV.pdf).
+* I am a Postdoctoral Fellow in the [Department of Computer Science and Engineering](https://disi.unibo.it/it/) at the [University of Bologna](https://www.unibo.it/). [[Curriculum Vitae]](http://IsamAljawarneh.github.io/files/IsamAljawarneh-CV.pdf).
 * 
 * 
 * 
