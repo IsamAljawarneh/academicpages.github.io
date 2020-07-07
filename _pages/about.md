@@ -32,3 +32,23 @@ redirect_from:
   * **Thesis Title**: Quality of Service Aware Data Stream Processing for Highly Dynamic and Scalable Applications. [Thesis is available online](http://amsdottorato.unibo.it/9402/1/PhD-Thesis-ALJAWARNEH.pdf)
   * **Supervisors**: [Prof. Rebecca Montanari](https://www.unibo.it/sitoweb/rebecca.montanari/cv-en)
   * **Brief**: Huge amounts of georeferenced data streams are arriving daily to data stream management systems that are deployed for serving highly scalable and dynamic applications. There are innumerable ways at which those loads can be exploited to gain deep insights in various domains. Decision makers require an interactive visualization of such data in the form of maps and dashboards for decision making and strategic planning. Data streams normally exhibit fluctuation and oscillation in arrival rates and skewness. Those are the two predominant factors that greatly impact the overall quality of service. This requires data stream management systems to be attuned to those factors in addition to the spatial shape of the data that may exaggerate the negative impact of those factors. Current systems do not natively support services with quality guarantees for dynamic scenarios, leaving the handling of those logistics to the user which is challenging and cumbersome. Three workloads are predominant for any data stream, batch processing, scalable storage and stream processing. In this thesis, we have designed a quality of service aware system, SpatialDSMS, that constitutes several subsystems that are covering those loads and any mixed load that results from intermixing them. Most importantly, we natively have incorporated quality of service optimizations for processing avalanches of geo-referenced data streams in highly dynamic application scenarios. This has been achieved transparently on top of the codebases of emerging de facto standard best-in-class representatives, thus relieving the overburdened shoulders of the users in the presentation layer from having to reason about those services. Instead, users express their queries with quality goals and our system optimizers compiles that down into query plans with an embedded quality guarantee and leaves logistic handling to the underlying layers. We have developed standard compliant prototypes for all the subsystems that constitutes SpatialDSMS. Thereafter, we have tested with huge amounts of real and synthetic geo-referenced datasets, deploying our computing clusters in-house and in Cloud computing environments. Our results show that all the subsystems of SpatialDSMS were able to achieve the envisaged quality goals and outperform baselines by significant margins.
+  
+  # RECENT REVIEWING ACTIVITIES
+  * Reviewer for the international journals/magazines:
+**Mobile Information Systems, Hindawi,2020**
+**IEEE Communications Magazine,2020**
+**Wireless Networks, Springer,2020**
+**International Journal of Distributed Sensor Networks (IJDSN), since 2018**
+**Concurrency and computation: practice and experience, since 2018**
+**Information Development – SAGE – since 2015**
+**P.S. Information available through publons:
+https://publons.com/researcher/1547696/isam-mashhour-al-jawarneh/
+* Reviewer for the international conferences/workshops:
+**25th IEEE Symposium on Computers and Communications (ISCC), 2020**
+**6th International Conference on Cloud and Big Data Computing, 2020**
+**IEEE Wireless Communications and Networking Conference (IEEE WCNC 2020)**
+**CASPer'18, 5th International Workshop on Crowd Assisted Sensing, Pervasive Systems and Communications (2018)**
+**IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) (2019)**
+**IEEE Wireless Communications and Networking Conference (WCNC), 2019**
+
+  
