@@ -35,20 +35,20 @@ redirect_from:
   
   # RECENT REVIEWING ACTIVITIES
 * Reviewer for the international journals/magazines:
-* **Mobile Information Systems, Hindawi**,2020
-* **IEEE Communications Magazine**,2020
-* **Wireless Networks**, Springer,2020
-* International Journal of Distributed Sensor Networks **(IJDSN)**, since 2018
-* **Concurrency and computation: practice and experience**, since 2018
-* **Information Development** – SAGE – since 2015
-* [P.S. Information available through publons](https://publons.com/researcher/1547696/isam-mashhour-al-jawarneh/)
+    * **Mobile Information Systems, Hindawi**,2020
+    * **IEEE Communications Magazine**,2020
+    * **Wireless Networks**, Springer,2020
+    * International Journal of Distributed Sensor Networks **(IJDSN)**, since 2018
+    * **Concurrency and computation: practice and experience**, since 2018
+    * **Information Development** – SAGE – since 2015
+     * [P.S. Information available through publons](https://publons.com/researcher/1547696/isam-mashhour-al-jawarneh/)
 * Reviewer for the international conferences/workshops:
-* 25th IEEE Symposium on Computers and Communications **(ISCC)**, 2020
-* **6th International Conference on Cloud and Big Data Computing, 2020**
-* IEEE Wireless Communications and Networking Conference **(IEEE WCNC 2020)**
-* **CASPer'18**, 5th International Workshop on Crowd Assisted Sensing, Pervasive Systems and Communications (2018)
-* IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications **(PIMRC)** (2019)
-* IEEE Wireless Communications and Networking Conference **(WCNC)**, 2019
+    * 25th IEEE Symposium on Computers and Communications **(ISCC)**, 2020
+    * **6th International Conference on Cloud and Big Data Computing, 2020**
+    * IEEE Wireless Communications and Networking Conference **(IEEE WCNC 2020)**
+    * **CASPer'18**, 5th International Workshop on Crowd Assisted Sensing, Pervasive Systems and Communications (2018)
+    * IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications **(PIMRC)** (2019)
+    * IEEE Wireless Communications and Networking Conference **(WCNC)**, 2019
   
   # News
 * June, 2020: Our paper entitled "Big Spatial Data Management for the Internet of Things: A Survey" has been accepted for publication at [Springer's Journal of Network and Systems Management](https://www.springer.com/journal/10922).
