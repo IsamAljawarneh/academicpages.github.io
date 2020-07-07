@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/eBISS2017
 venue: "Brussels, Belgium"
-date: 2019-08-21
+date: 2017-07-02
 location: "Brussels, Belgium"
 ---
 
