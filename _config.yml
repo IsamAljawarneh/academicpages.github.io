@@ -84,10 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "DISI, University of Bologna"
-  location         : "Bologna, Italy"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=hv5C-NIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
