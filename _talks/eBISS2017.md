@@ -3,7 +3,7 @@ title: "QoS-Aware Big Geospatial Data Processing"
 collection: talks
 type: "Poster Presentation"
 permalink: /talks/eBISS2017
-venue: "Brussels, Belgium"
+venue: "Université Libre de Bruxelles"
 date: 2017-07-02
 location: "Brussels, Belgium"
 ---
