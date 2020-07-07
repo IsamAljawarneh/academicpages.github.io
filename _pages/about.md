@@ -49,8 +49,6 @@ redirect_from:
 * **CASPer'18**, 5th International Workshop on Crowd Assisted Sensing, Pervasive Systems and Communications (2018)
 * IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications **(PIMRC)** (2019)
 * IEEE Wireless Communications and Networking Conference **(WCNC)**, 2019
-
-  ---------
   
   # News
 * June, 2020: Our paper entitled "Big Spatial Data Management for the Internet of Things: A Survey" has been accepted for publication at [Springer's Journal of Network and Systems Management](https://www.springer.com/journal/10922).
