@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a Postdoctoral Fellow in the [Department of Computer Science and Engineering](https://disi.unibo.it/it/) at the [University of Bologna](https://www.unibo.it/). [[Curriculum Vitae]](http://IsamAljawarneh.github.io/files/IsamAljawarneh-CV.pdf).
-* 
+* I am a self-motivated divergent thinker with deep domain expertise.
 * 
 * 
 
