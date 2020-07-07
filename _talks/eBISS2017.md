@@ -9,4 +9,5 @@ location: "Brussels, Belgium"
 ---
 
 [Poster](https://cs.ulb.ac.be/conferences/ebiss2017/files/posters/aljawarneh_ebiss2017_poster.pdf)
+
 Presented a poster explaining the outcomes of my research through my first year at Ph.D.
