@@ -21,3 +21,9 @@ redirect_from:
 * Distributed Extract, Transform and Load (ETL) processing
 * [Here](http://IsamAljawarneh.github.io/files/research_statement_Aljawarneh.pdf) my research statement.
 
+# Research Activities
+* **March 2020 - present**: Postdoctoral Fellow at the Departament of Computer Science and Engineering.
+  * **Supervisor**: [Professor Rebecca Montanari](https://www.unibo.it/sitoweb/rebecca.montanari/cv-en).
+  * **Team**: [Mobile Middleware Research Group](https://middleware.unibo.it/) in [Department of Computer Science and Engineering](https://disi.unibo.it/it/) at the [University of Bologna](https://www.unibo.it/en).
+   * **Project**: Design of scalable processing system for cultural heritage data relating. As part of the PON "RESEARCH AND INNOVATION" 2014 - 2020- IDEHA, CUP J46C18000440008.
+  * **A brief**: I am responsible for designing highly-available and industry-grade prototype for efficiently managing geo-referenced human and vehicle mobility time-series data. I am designing novel indexing, partitioning and query processing algorithms that are aware of the multidimensional nature and shape of mobility data (three dimensions, spatial, temporal, and contextual). The novel contribution is the design of Cloud-based algorithms that operate on the confluence between spatial and time-series data. Most methods of the relevant art are operating in one of the two modes (either spatial or time-series) but applications of both together remain humble. Methods that I am developing will be able to achieve both spatial and temporal awareness synergistically. A probable scenario would be modelling how my support can be used to distribute tourist people around archeological sites in a proper manner to avoid crowd and to maintain safety.
