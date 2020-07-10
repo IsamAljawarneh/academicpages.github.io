@@ -17,4 +17,4 @@ author_profile: true
 
 ## Book Chapters
 
-<b>How Fog Computing Can Support Latency/Reliability‐sensitive IoT Applications: An Overview and a Taxonomy of State‐of‐the‐art Solutions]({% include base_path %}chapter2020)</b><br> Paolo Bellavista  Javier Berrocal  Antonio Corradi  Sajal K. Das  Luca Foschini  <b>Isam Mashhour Al Jawarneh</b>  Alessandro Zanni. <i>Fog Computing: Theory and Practice</i> . <b>2020</b>.
+<b>How Fog Computing Can Support Latency/Reliability‐sensitive IoT Applications: An Overview and a Taxonomy of State‐of‐the‐art Solutions]({% include base_path %}chapter2020)</b><br>. Paolo Bellavista  Javier Berrocal  Antonio Corradi  Sajal K. Das  Luca Foschini  <b>Isam Mashhour Al Jawarneh</b>  Alessandro Zanni. <i>Fog Computing: Theory and Practice</i> . <b>2020</b>.
