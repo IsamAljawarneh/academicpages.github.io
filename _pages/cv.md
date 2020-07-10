@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [(PDF File)](http://IsamAljawarneh.github.io/files/CV_ALJAWARNEH_2020.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
