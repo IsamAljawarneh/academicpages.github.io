@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 [(Google Scholar)](https://scholar.google.com/citations?user=hv5C-NIAAAAJ&hl=en)
+[(dblp)](https://dblp.org/pers/a/Aljawarneh:Isam_Mashhour.html)
 
 ## Peer-reviewed International Journals and Magazines
 
