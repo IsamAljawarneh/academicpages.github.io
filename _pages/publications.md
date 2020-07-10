@@ -22,7 +22,7 @@ author_profile: true
 
 ## <u>International Conferences/workshops/symposiums</u>
 
-<b>[Spatial-Aware Approximate Big Data Stream Processingms]({% include base_path %}IEEE_globecom2019)</b><br>
+<b>[Spatial-Aware Approximate Big Data Stream Processing]({% include base_path %}IEEE_globecom2019)</b><br>
 <b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Luca Foschini, Rebecca Montanari <i>2019 IEEE Global Communications Conference (GLOBECOM)</i>. <b>2019</b>.
 
 <b>[Design of a data warehouse model for decision support at higher education: A case study]({% include base_path %}dw2015)</b><br>
