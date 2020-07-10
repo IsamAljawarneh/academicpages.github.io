@@ -11,16 +11,6 @@ citation: '<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista,  Luca Foschini, R
 
 
 ## Abstract
-Depending on the Internet as the main source of information regarding all aspects of our life is becoming a trend. 
-People seek relevant information, suggestions, and recommendations in an overloaded online world and through social ties regarding their daily activities, 
-including places to visit and restaurants to try new food. The wide variety of choices that are available online causes information overloading,
-which thereby complicates the selection process. Traditional recommender systems are mostly dependent on a conventional model that is based on user-item-rating interaction 
-without considering contextual information. We claim that new generations of recommendation systems able to exploit context in an innovative and efficient way is 
-important and may statistically yield more significant rating predictions. However, only few research works have focused on how to effectively and efficiently 
-exploit context metadata in Deep Learning (DL)-based recommendations. The main reason lies, perhaps most significantly, in the fact that most current DL algorithms 
-are not intrinsically designed to incorporate contextual tags. In this paper, we provide a significant contribution for filling this gap by designing a hybrid algorithm 
-that retrofits and repurposes a pre-filtering contextual incorporation method and feeds the new dimension to a DL-based neural collaborative filtering method, 
-thus preserving and recovering the benefits of both without their limitations. The paper also reports quantitative results that show that our method outperforms 
-the baselines by statistically significant margins.
+The widespread adoption of ubiquitous IoT edge devices and modern telemetry spewing out unprecedented avalanches of spatially-tagged datasets that if could interactively be explored would offer deep insights into interesting natural phenomena, which might remain otherwise illusive. Online application of spatial queries is expensive, a problem that is further inflated by the fact that we, more than often, do not have access to a full dataset population in non- stationary settings. As a way of coping up, sampling stands out as a natural solution for approximating estimators such as averages and totals of some interesting correlated parameters. In any sampling design, representativeness remains the main issue upon which a method is regarded good or bad. In a loose way, in a spatial context, this means fairly sampling quantities in a way that preserves spatial characteristics so as to provide more accurate approximates for spatial query responses. Current big data management systems either do not offer over-the-counter spatial-aware online sampling solutions or, at best, rely on randomness, which causes too many imponderables for an overall estimation. We herein have designed a QoS- spatial-aware online sampling method that outperforms vanilla baselines by statically significant magnitudes. Our method sits atop Apache Spark Structured Streaming's codebase and have been tested against a benchmark that is consisting of millions-records of spatially- augmented dataset.
 
 
