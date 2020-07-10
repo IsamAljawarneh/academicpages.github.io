@@ -1,0 +1,1 @@
+I. M. Al Jawarneh, P. Bellavista, L. Foschini and R. Montanari, "Spatial-Aware Approximate Big Data Stream Processing," 2019 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 2019, pp. 1-6, doi: 10.1109/GLOBECOM38437.2019.9014291.
