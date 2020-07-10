@@ -6,7 +6,7 @@ venue: "2019 IEEE Global Communications Conference (GLOBECOM)"
 date: 2020-1-1
 citation: '<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista,  Luca Foschini, Rebecca Montanari'
 ---
-[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9004579) [[BIBTEX]](http://IsamAljawarneh.github.io/files/bib/IEEE_Access2020.bib) [[RIS]](http://IsamAljawarneh.github.io/files/ris/ieee_access2020.ris) [[plain]](http://IsamAljawarneh.github.io/files/txt/ieee_access2020.txt) 
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9014291) [[BIBTEX]](http://IsamAljawarneh.github.io/files/bib/IEEE_globecom2019.bib) [[RIS]](http://IsamAljawarneh.github.io/files/ris/IEEE_globecom2019.ris) [[plain]](http://IsamAljawarneh.github.io/files/txt/IEEE_globecom2019.txt) 
 
 
 
