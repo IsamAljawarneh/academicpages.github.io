@@ -26,4 +26,4 @@ author_profile: true
 <b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Luca Foschini, Rebecca Montanari <i>.2019 IEEE Global Communications Conference (GLOBECOM)</i>. <b>2019</b>.
 
 <b>[Container orchestration engines: A thorough functional and performance comparison]({% include base_path %}ICC2019)</b><br>
-<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Filippo Bosi, Luca Foschini, Giuseppe Martuscelli, Rebecca Montanari, Amedeo Palopoli. <i>Information Development</i>. <b>2015</b>.
+<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Filippo Bosi, Luca Foschini, Giuseppe Martuscelli, Rebecca Montanari, Amedeo Palopoli. <i>ICC 2019-2019 IEEE International Conference on Communications (ICC)</i>. <b>2015</b>.
