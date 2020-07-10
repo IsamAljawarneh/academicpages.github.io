@@ -15,6 +15,6 @@ author_profile: true
 <b>[Design of a data warehouse model for decision support at higher education: A case study]({% include base_path %}dw2015)</b><br>
 <b>Isam M AlJawarneh</b>. <i>Information Development</i>. <b>2015</b>.
 
-## <u color = pink>Book Chapters</u>
+## <u>Book Chapters</u>
 
 <b>[How Fog Computing Can Support Latency/Reliability‐sensitive IoT Applications: An Overview and a Taxonomy of State‐of‐the‐art Solutions]({% include base_path %}chapter2020)</b><br>. Paolo Bellavista  Javier Berrocal  Antonio Corradi  Sajal K. Das  Luca Foschini  <b>Isam Mashhour Al Jawarneh</b>  Alessandro Zanni. <i>Fog Computing: Theory and Practice</i> . <b>2020</b>.
