@@ -1,10 +1,10 @@
 ---
 title: "[Spatial-Aware Approximate Big Data Stream Processing](https://ieeexplore.ieee.org/abstract/document/9014291)"
 collection: publications
-permalink: /publications/IEEE_Access2020
-venue: "IEEE Access"
+permalink: /publications/IEEE_globecom2019
+venue: "2019 IEEE Global Communications Conference (GLOBECOM)"
 date: 2020-1-1
-citation: '<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Antonio Corradi, Luca Foschini, Rebecca Montanari, Javier Berrocal, Juan Manuel Murillo'
+citation: '<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista,  Luca Foschini, Rebecca Montanari'
 ---
 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9004579) [[BIBTEX]](http://IsamAljawarneh.github.io/files/bib/IEEE_Access2020.bib) [[RIS]](http://IsamAljawarneh.github.io/files/ris/ieee_access2020.ris) [[plain]](http://IsamAljawarneh.github.io/files/txt/ieee_access2020.txt) 
 
