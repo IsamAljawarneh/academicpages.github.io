@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science and Engineering, UNIVERSITA' DI BOLOGNA, Italy, 2020
+* M.S.c in Information Technology , Universiti Utara Malaysia (UUM), Malaysia, 2008
+* B.S.c in computer science, Al Al-Bayt University, Jordan, 2005
 
 Work experience
 ======
