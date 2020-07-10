@@ -1,0 +1,1 @@
+I. M. A. Jawarneh, P. Bellavista, A. Corradi, L. Foschini, R. Montanari and A. Zanotti, "In-memory Spatial-Aware Framework for Processing Proximity-Alike Queries in Big Spatial Data," 2018 IEEE 23rd International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), Barcelona, 2018, pp. 1-6, doi: 10.1109/CAMAD.2018.8514950.
