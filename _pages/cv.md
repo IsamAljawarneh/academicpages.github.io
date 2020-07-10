@@ -21,12 +21,12 @@ Work experience
 ======
 * March, 2020 - present: Research Fellow (Postdoc.)
   * Universita' Di Bologna, Italy
-  * Duties included: see my CV
+  * Duties included: see my [CV](http://IsamAljawarneh.github.io/files/CV_ALJAWARNEH_2020.pdf)
   * Supervisor: Professor Rebecca Montanari
 
 * Septemeber 2016 - February 2020: Research Assistant
   * Centro Interdipartimentale di Ricerca Industriale ICT (CIRI ICT), Universita' Di Bologna , Italy
-  * Duties included: see my CV
+  * Duties included: see my [CV]((http://IsamAljawarneh.github.io/files/CV_ALJAWARNEH_2020.pdf))
   * Supervisor: Professor Rebecca Montanari & Professor Luca Foschini
   
 Skills
