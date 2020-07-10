@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[(here)](http://IsamAljawarneh.github.io/files/CV_ALJAWARNEH_2020.pdf)
+[(download it from here)](http://IsamAljawarneh.github.io/files/CV_ALJAWARNEH_2020.pdf)
 
 Education
 ======
