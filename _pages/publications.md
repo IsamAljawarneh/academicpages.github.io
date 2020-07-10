@@ -33,4 +33,4 @@ author_profile: true
 
 
 <b>[In-memory spatial-aware framework for processing proximity-alike queries in big spatial data]({% include base_path %}CAMAD2018)</b><br>
-<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Antonio Corradi, Luca Foschini, Rebecca Montanari, Andrea Zanottiز <i>2018 IEEE 23rd International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD)</i>. <b>2018</b>.
+<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Antonio Corradi, Luca Foschini, Rebecca Montanari, Andrea Zanotti <i>2018 IEEE 23rd International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD)</i>. <b>2018</b>.
