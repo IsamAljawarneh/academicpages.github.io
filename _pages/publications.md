@@ -18,3 +18,12 @@ author_profile: true
 ## <u>Book Chapters</u>
 
 <b>[How Fog Computing Can Support Latency/Reliability‐sensitive IoT Applications: An Overview and a Taxonomy of State‐of‐the‐art Solutions]({% include base_path %}chapter2020)</b>.<br>Paolo Bellavista  Javier Berrocal  Antonio Corradi  Sajal K. Das  Luca Foschini  <b>Isam Mashhour Al Jawarneh</b>  Alessandro Zanni. <i>Fog Computing: Theory and Practice</i>.<b>2020</b>.
+
+
+## <u>International Conferences/workshops/symposiums</u>
+
+<b>[Spatial-Aware Approximate Big Data Stream Processingms]({% include base_path %}IEEE_globecom2019)</b><br>
+<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Luca Foschini, Rebecca Montanari <i>2019 IEEE Global Communications Conference (GLOBECOM)</i>. <b>2019</b>.
+
+<b>[Design of a data warehouse model for decision support at higher education: A case study]({% include base_path %}dw2015)</b><br>
+<b>Isam M AlJawarneh</b>. <i>Information Development</i>. <b>2015</b>.
