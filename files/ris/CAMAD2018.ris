@@ -1,0 +1,50 @@
+TY  - CONF
+TI  - In-memory Spatial-Aware Framework for Processing Proximity-Alike Queries in Big Spatial Data
+T2  - 2018 IEEE 23rd International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD)
+SP  - 1
+EP  - 6
+AU  - I. M. A. Jawarneh
+AU  - P. Bellavista
+AU  - A. Corradi
+AU  - L. Foschini
+AU  - R. Montanari
+AU  - A. Zanotti
+PY  - 2018
+KW  - Big Data
+KW  - geographic information systems
+KW  - mobile computing
+KW  - query processing
+KW  - sensor-enabled devices
+KW  - geospatial query performances
+KW  - custom spatial-aware partitioning method
+KW  - Apache Spark
+KW  - custom geospatial service layer
+KW  - spatial-characteristics
+KW  - general-purpose workloads
+KW  - cloud-based big data processing systems
+KW  - mobile ubiquitous devices
+KW  - big spatial data
+KW  - memory spatial-aware framework
+KW  - Spatial databases
+KW  - Partitioning algorithms
+KW  - Sparks
+KW  - Parallel processing
+KW  - Big Data
+KW  - Smart cities
+KW  - Load management
+KW  - spatial data
+KW  - smart city
+KW  - boundary spatial objects
+KW  - co-locality mining, density-based clustering.
+DO  - 10.1109/CAMAD.2018.8514950
+JO  - 2018 IEEE 23rd International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD)
+IS  - 
+SN  - 2378-4873
+VO  - 
+VL  - 
+JA  - 2018 IEEE 23rd International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD)
+Y1  - 17-19 Sept. 2018
+AB  - The widespread adoption of sensor-enabled and mobile ubiquitous devices has caused an avalanche of big data that is mostly geospatially tagged. Most cloud-based big data processing systems are designed for general-purpose workloads, neglecting spatial-characteristics. However, interesting analytics often seek answers for proximity-alike queries. We fill this gap by providing custom geospatial service layer atop of Apache Spark. To be more specific, we leverage Spark to design a custom spatial-aware partitioning method to boost geospatial query performances. Our results show that our patches outperform state-of-the-art implementations by significant fractions.
+ER  - 
+
+
