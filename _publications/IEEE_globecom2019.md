@@ -1,5 +1,5 @@
 ---
-title: "[A Pre-Filtering Approach for Incorporating Contextual Information Into Deep Learning Based Recommender Systems](https://ieeexplore.ieee.org/abstract/document/9004579)"
+title: "[Spatial-Aware Approximate Big Data Stream Processing](https://ieeexplore.ieee.org/abstract/document/9014291)"
 collection: publications
 permalink: /publications/IEEE_Access2020
 venue: "IEEE Access"
