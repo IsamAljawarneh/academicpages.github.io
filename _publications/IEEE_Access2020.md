@@ -2,7 +2,7 @@
 title: "[A Pre-Filtering Approach for Incorporating Contextual Information Into Deep Learning Based Recommender Systems](https://ieeexplore.ieee.org/abstract/document/9004579)"
 collection: publications
 permalink: /publications/IEEE_Access2020
-venue: "JNCA 2017"
+venue: "IEEE Access"
 date: 2020
 citation: '<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Antonio Corradi, Luca Foschini, Rebecca Montanari, Javier Berrocal, Juan Manuel Murillo'
 ---
