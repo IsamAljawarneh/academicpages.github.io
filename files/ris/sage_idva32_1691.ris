@@ -1,0 +1,27 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Design of a data warehouse model for decision support at higher education: A case study
+AU  - Aljawarneh, Isam M
+Y1  - 2015/12/08
+PY  - 2015
+DA  - 2016/11/01
+N1  - doi: 10.1177/0266666915621105
+DO  - 10.1177/0266666915621105
+T2  - Information Development
+JF  - Information Development
+JO  - Information Development
+SP  - 1691
+EP  - 1706
+VL  - 32
+IS  - 5
+PB  - SAGE Publications Ltd
+N2  - The expansion of higher education (HE) institutions and their increased emphasis on strategic planning have raised the demand for integrated information systems that can support strategic analysis. A data warehouse (DW) provides decision data for managers in a form that facilitates their access, using business intelligence (BI) tools to enhance their decision making process. However, available DW models and design methods do not address the HE industry?s specific needs. In this paper, we aim to fill this gap by providing a methodological framework that encompasses methods tailored to meet the needs of HE. Also, a prototype has been developed using actual student data to validate the framework. It shows the efficacy of the framework in supporting strategic analysis at universities, leading them to develop effective strategies and policies. The paper further provides guidelines for researchers on the important issues to be considered for designing efficient DWs.
+SN  - 0266-6669
+M3  - doi: 10.1177/0266666915621105
+UR  - https://doi.org/10.1177/0266666915621105
+Y2  - 2020/07/10
+ER  - 
