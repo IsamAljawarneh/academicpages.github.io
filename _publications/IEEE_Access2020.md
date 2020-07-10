@@ -6,7 +6,7 @@ venue: "IEEE Access"
 date: 2020-1-1
 citation: '<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Antonio Corradi, Luca Foschini, Rebecca Montanari, Javier Berrocal, Juan Manuel Murillo'
 ---
-[[Paper]]() [[BIBTEX]](http://IsamAljawarneh.github.io/files/bib/IEEE_Access2020.bib)
+[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9004579) [[BIBTEX]](http://IsamAljawarneh.github.io/files/bib/IEEE_Access2020.bib)
 
 
 
