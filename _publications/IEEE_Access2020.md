@@ -3,7 +3,7 @@ title: "[A Pre-Filtering Approach for Incorporating Contextual Information Into 
 collection: publications
 permalink: /publications/IEEE_Access2020
 venue: "IEEE Access"
-date: 2020
+date: 2020-1-1
 citation: '<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Antonio Corradi, Luca Foschini, Rebecca Montanari, Javier Berrocal, Juan Manuel Murillo'
 ---
 [[Paper]]() [[BIBTEX]](http://IsamAljawarneh.github.io/files/bib/IEEE_Access2020.bib)
