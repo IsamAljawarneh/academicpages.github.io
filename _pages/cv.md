@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [(here)](http://IsamAljawarneh.github.io/files/CV_ALJAWARNEH_2020.pdf)
+
 Education
 ======
 * Ph.D in Computer Science and Engineering, Universita' Di Bologna, Italy, 2020
