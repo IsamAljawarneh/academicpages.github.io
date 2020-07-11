@@ -1,0 +1,18 @@
+---
+title: "[Cost-effective strategies for provisioning NoSQL storage services in support for industry 4.0](https://ieeexplore.ieee.org/abstract/document/8538616)"
+collection: publications
+permalink: /publications/ISCC2018
+venue: "2018 IEEE Symposium on Computers and Communications (ISCC)"
+date: 2018-1-1
+citation: '<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Francesco Casimiro, Antonio Corradi, Luca Foschini'
+---
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/8538616) [[BIBTEX]](http://IsamAljawarneh.github.io/files/bib/ISCC2018.bib) [[RIS]](http://IsamAljawarneh.github.io/files/ris/ISCC2018.ris) [[plain]](http://IsamAljawarneh.github.io/files/txt/ISCC2018.txt) 
+
+
+
+## Abstract
+The advancement of networking and sensor-enabled devices have motivated the emergence of unprecedented initiatives, 
+including Industry 4.0 and smart cities. Those are entwined in a way that makes their operation duly interconnected. 
+Industry 4.0 will sooner become the biggest consumer of smart city big data. That data is geo-referenced, and its storage and processing need spatial-awareness, 
+which is currently absent within the constellation of biggest big data management players of the market. We aim to fill this gap by providing spatial-aware big data management 
+strategies in support for Industry 4.0 main principles. Our experimental results show that our strategies outperform those of state-of-the-art by orders of magnitude.
