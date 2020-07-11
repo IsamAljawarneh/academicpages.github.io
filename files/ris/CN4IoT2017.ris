@@ -1,0 +1,25 @@
+TY  - CONF
+AU  - Aljawarneh, Isam Mashhour
+AU  - Bellavista, Paolo
+AU  - De Rolt, Carlos Roberto
+AU  - Foschini, Luca
+ED  - Longo, Antonella
+ED  - Zappatore, Marco
+ED  - Villari, Massimo
+ED  - Rana, Omer
+ED  - Bruneo, Dario
+ED  - Ranjan, Rajiv
+ED  - Fazio, Maria
+ED  - Massonet, Philippe
+PY  - 2018
+DA  - 2018//
+TI  - Dynamic Identification of Participatory Mobile Health Communities
+BT  - Cloud Infrastructures, Services, and IoT Systems for Smart Cities
+SP  - 208
+EP  - 217
+PB  - Springer International Publishing
+CY  - Cham
+AB  - Today’s spread of chronic diseases and the need to control infectious diseases outbreaks have raised the demand for integrated information systems that can support patients while moving anywhere and anytime. This has been promoted by recent evolution in telecommunication technologies, together with an exponential increase in using sensor-enabled mobile devices on a daily basis. The construction of Mobile Health Communities (MHC) supported by Mobile CrowdSensing (MCS) is essential for mobile healthcare emergency scenarios. In a previous work, we have introduced the COLLEGA middleware, which integrates modules for supporting mobile health scenarios and the formation of MHCs through MCS. In this paper, we extend the COLLEGA middleware to address the need in real time scenarios to handle data arriving continuously in streams from MHC’s members. In particular, this paper describes the novel COLLEGA support for managing the real-time formation of MHCs. Experimental results are also provided that show the effectiveness of our identification solution.
+SN  - 978-3-319-67636-4
+ID  - 10.1007/978-3-319-67636-4_22
+ER  - 
