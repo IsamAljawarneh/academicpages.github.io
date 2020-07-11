@@ -45,3 +45,6 @@ author_profile: true
 
 <b>[SACHER Project: A Cloud Platform and Integrated Services for Cultural Heritage and for Restoration]({% include base_path %}EAI2018)</b><br>
 Silvia Bertacchi, <b>Isam Mashhour Al Jawarneh</b>, Fabrizio Ivan Apollonio, Gianna Bertacchi, Michele Cancilla, Luca Foschini, Costantino Grana, Giuseppe Martuscelli, Rebecca Montanari <i>Proceedings of the 4th EAI International Conference on Smart Objects and Technologies for Social Good</i>. <b>2017</b>.
+
+<b>[Toward Privacy-Aware Healthcare Data Fusion Systems]({% include base_path %}Gerontechnology2018)</b><br>
+<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Luca Foschini, Rebecca Montanari, Javier Berrocal, Juan M Murillo <i>International Workshop on Gerontechnology</i>. <b>2018</b>.
