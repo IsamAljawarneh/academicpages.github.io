@@ -8,6 +8,7 @@ date: 2008-01-01
 location: "Jeddah, Saudi Arabia"
 ---
 
+# Description
 Teaching various Information Technology courses at bachelor’s degree level, including, for example, object-oriented programming in Java, databases, and advanced data warehousing
 
 object-oriented computer programming (3 credit hours)
