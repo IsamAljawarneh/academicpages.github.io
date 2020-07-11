@@ -36,3 +36,6 @@ author_profile: true
 
 <b>[Cost-effective strategies for provisioning NoSQL storage services in support for industry 4.0]({% include base_path %}ISCC2018)</b><br>
 <b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Francesco Casimiro, Antonio Corradi, Luca Foschini <i>2018 IEEE Symposium on Computers and Communications (ISCC)</i>. <b>2018</b>.
+
+<b>[Efficient spark-based framework for big geospatial data query processing and analysis]({% include base_path %}ISCC2017)</b><br>
+<b>Isam Mashhour Al Jawarneh</b>,  Paolo Bellavista, Antonio Corradi, Rebecca Montanari, Luca Foschini, Andrea Zanotti <i>2017 IEEE Symposium on Computers and Communications (ISCC)</i>. <b>2017</b>.
