@@ -1,0 +1,47 @@
+TY  - CONF
+TI  - Cost-Effective Strategies for Provisioning NoSQL Storage Services in Support for Industry 4.0
+T2  - 2018 IEEE Symposium on Computers and Communications (ISCC)
+SP  - 01227
+EP  - 01232
+AU  - I. M. A. Jawarneh
+AU  - P. Bellavista
+AU  - F. Casimiro
+AU  - A. Corradi
+AU  - L. Foschini
+PY  - 2018
+KW  - Big Data
+KW  - NoSQL databases
+KW  - sensors
+KW  - smart cities
+KW  - cost-effective strategies
+KW  - provisioning NoSQL storage services
+KW  - sensor-enabled devices
+KW  - networking devices
+KW  - Industry 4.0
+KW  - spatial-aware Big Data management strategies
+KW  - smart city Big Data
+KW  - Big Data
+KW  - Query processing
+KW  - Geospatial analysis
+KW  - Smart cities
+KW  - Spatial databases
+KW  - Quality of service
+KW  - Spatial data
+KW  - Industry 4.0
+KW  - NoSQL
+KW  - Big Data
+KW  - Smart City
+KW  - Geohash
+KW  - Spatial Partition
+DO  - 10.1109/ISCC.2018.8538616
+JO  - 2018 IEEE Symposium on Computers and Communications (ISCC)
+IS  - 
+SN  - 1530-1346
+VO  - 
+VL  - 
+JA  - 2018 IEEE Symposium on Computers and Communications (ISCC)
+Y1  - 25-28 June 2018
+AB  - The advancement of networking and sensor-enabled devices have motivated the emergence of unprecedented initiatives, including Industry 4.0 and smart cities. Those are entwined in a way that makes their operation duly interconnected. Industry 4.0 will sooner become the biggest consumer of smart city big data. That data is geo-referenced, and its storage and processing need spatial-awareness, which is currently absent within the constellation of biggest big data management players of the market. We aim to fill this gap by providing spatial-aware big data management strategies in support for Industry 4.0 main principles. Our experimental results show that our strategies outperform those of state-of-the-art by orders of magnitude.
+ER  - 
+
+
