@@ -6,7 +6,7 @@ venue: "International Workshop on Gerontechnology"
 date: 2018-1-1
 citation: '<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Luca Foschini, Rebecca Montanari, Javier Berrocal, Juan M Murillo'
 ---
-[[Paper]](https://dspace.uevora.pt/rdpc/bitstream/10174/25663/1/LIVRO-2019_Book_Gerontechnology.pdf#page=38) [[BIBTEX]](http://IsamAljawarneh.github.io/files/bib/EAI2018.bib) [[RIS]](http://IsamAljawarneh.github.io/files/ris/EAI2018.ris) [[plain]](http://IsamAljawarneh.github.io/files/txt/EAI2018.txt) 
+[[Paper]](https://dspace.uevora.pt/rdpc/bitstream/10174/25663/1/LIVRO-2019_Book_Gerontechnology.pdf#page=38) [[BIBTEX]](http://IsamAljawarneh.github.io/files/bib/Gerontechnology2018.bib) [[RIS]](http://IsamAljawarneh.github.io/files/ris/Gerontechnology2018.ris) [[plain]](http://IsamAljawarneh.github.io/files/txt/Gerontechnology2018.txt) 
 
 
 
