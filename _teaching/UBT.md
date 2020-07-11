@@ -12,21 +12,30 @@ Teaching various Information Technology courses at bachelor’s degree level, in
 
 object-oriented computer programming (3 credit hours)
 ======
+
 data structure and algorithms (3 credit hours)
 ======
+
 databases (3 credit hours)
 ======
+
 software engineering (3 credit hours)
 ======
+
 software design patterns (3 credit hours)
 ======
+
 human - computer interaction (3 credit hours)
 ======
+
 advanced programming (3 credit hours)
 ======
+
 IT issues & management (3 credit hours)
 ======
+
 introduction to software project management (3 credit hours)
 ======
+
 needs assessment and technology evaluation (3 credit hours)
 ======
