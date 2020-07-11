@@ -1,0 +1,21 @@
+TY  - CONF
+AU  - Al Jawarneh, Isam Mashhour
+AU  - Bellavista, Paolo
+AU  - Foschini, Luca
+AU  - Montanari, Rebecca
+AU  - Berrocal, Javier
+AU  - Murillo, Juan M.
+ED  - García-Alonso, José 
+ED  - Fonseca, César
+PY  - 2019
+DA  - 2019//
+TI  - Toward Privacy-Aware Healthcare Data Fusion Systems
+BT  - Gerontechnology
+SP  - 26
+EP  - 37
+PB  - Springer International Publishing
+CY  - Cham
+AB  - Mobile wearable and sensor-enabled devices offer an opportunity for deluging unprecedented amount of health-related data that is beneficial in health and caregiving research. Fusing data ingested throughout various heterogeneous channels is essential for better provisioning novel healthcare solutions. However, this is typically challenged by privacy-awareness. For example, the European Commission throughout its call-for-proposals always stresses a requirement that provisioned solutions should consider privacy and should boost security- and privacy-awareness in cloud computing environments. Current solutions either do not consider privacy requirements or provide solutions that are mostly ad hoc and patch efforts. In this position paper, we motivate the adoption of Blockchain technologies for providing privacy-awareness to novel healthcare data fusion solutions. Our envisioned solution is proposed on top of current state-of-the-art blockchain and big data representatives, specifically Hyperledger Fabric and Apache Spark.
+SN  - 978-3-030-16028-9
+ID  - 10.1007/978-3-030-16028-9_3
+ER  - 
