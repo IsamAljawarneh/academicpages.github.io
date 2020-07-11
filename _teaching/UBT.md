@@ -1,5 +1,5 @@
 ---
-title: "Lecturer for Bachelor degree in Information Technology, various courses"
+title: "Lecturer for Bachelor degree in Information Technology, various courses 2008 - 2016"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/UBT
@@ -29,10 +29,10 @@ human - computer interaction (3 credit hours)
 ======
 
 advanced programming (3 credit hours)
-======
+===
 
 IT issues & management (3 credit hours)
-======
+===
 
 introduction to software project management (3 credit hours)
 ======
