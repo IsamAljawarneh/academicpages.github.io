@@ -31,6 +31,8 @@ author_profile: true
 <b>[Qos and performance metrics for container-based virtualization in cloud environments]({% include base_path %}containers2019)</b><br>
 <b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Luca Foschini, Giuseppe Martuscelli, Rebecca Montanari, Amedeo Palopoli, Filippo Bosi. <i>Proceedings of the 20th International Conference on Distributed Computing and Networking</i>. <b>2019</b>.
 
-
 <b>[In-memory spatial-aware framework for processing proximity-alike queries in big spatial data]({% include base_path %}CAMAD2018)</b><br>
 <b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Antonio Corradi, Luca Foschini, Rebecca Montanari, Andrea Zanotti <i>2018 IEEE 23rd International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD)</i>. <b>2018</b>.
+
+<b>[Cost-effective strategies for provisioning NoSQL storage services in support for industry 4.0]({% include base_path %}ISCC2018)</b><br>
+<b>Isam Mashhour Al Jawarneh</b>, Paolo Bellavista, Francesco Casimiro, Antonio Corradi, Luca Foschini <i>2018 IEEE Symposium on Computers and Communications (ISCC)</i>. <b>2018</b>.
