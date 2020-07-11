@@ -1,0 +1,65 @@
+TY  - CONF
+TI  - Efficient spark-based framework for big geospatial data query processing and analysis
+T2  - 2017 IEEE Symposium on Computers and Communications (ISCC)
+SP  - 851
+EP  - 856
+AU  - I. M. Aljawarneh
+AU  - P. Bellavista
+AU  - A. Corradi
+AU  - R. Montanari
+AU  - L. Foschini
+AU  - A. Zanotti
+PY  - 2017
+KW  - Big Data
+KW  - computational complexity
+KW  - data analysis
+KW  - data mining
+KW  - geophysics computing
+KW  - optimisation
+KW  - parallel processing
+KW  - query processing
+KW  - resource allocation
+KW  - software performance evaluation
+KW  - visual databases
+KW  - self-tuned framework execution
+KW  - self-adaptable load-balancing service
+KW  - advanced management functions
+KW  - Apache Spark
+KW  - scarce computing resource overloading
+KW  - unbalanced loading
+KW  - cloud computing
+KW  - cost-effective commodity clusters
+KW  - parallel-based computing infrastructures
+KW  - large-scale computing infrastructures
+KW  - geometric computational complexity
+KW  - optimized query performance
+KW  - spatial data management
+KW  - spatial queries
+KW  - performance tuning
+KW  - scientific community
+KW  - big geospatial data analysis
+KW  - big geospatial data query processing
+KW  - Spark-based framework
+KW  - Spatial databases
+KW  - Geospatial analysis
+KW  - Sparks
+KW  - Big Data
+KW  - Clustering algorithms
+KW  - Time factors
+KW  - Computers
+KW  - querying spatial data
+KW  - MapReduce
+KW  - big data
+KW  - spark
+DO  - 10.1109/ISCC.2017.8024633
+JO  - 2017 IEEE Symposium on Computers and Communications (ISCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE Symposium on Computers and Communications (ISCC)
+Y1  - 3-6 July 2017
+AB  - The exponential amount of geospatial data that has been accumulated in an accelerated pace has inevitably motivated the scientific community to examine novel parallel technologies for tuning the performance of spatial queries. Managing spatial data for an optimized query performance is particularly a challenging task. This is due to the growing complexity of geometric computations involved in querying spatial data, where traditional systems failed to beneficially expand. However, the use of large-scale and parallel-based computing infrastructures based on cost-effective commodity clusters and cloud computing environments introduces new management challenges to avoid bottlenecks such as overloading scarce computing resources, which may be caused by an unbalanced loading of parallel tasks. In this paper, we aim to fill those gaps by introducing a generic framework for optimizing the performance of big spatial data queries on top of Apache Spark. Our framework also supports advanced management functions including a unique self-adaptable load-balancing service to self-tune framework execution. Our experimental evaluation shows that our framework is scalable and efficient for querying massive amounts of real spatial datasets.
+ER  - 
+
+
