@@ -1,0 +1,1 @@
+I. M. A. Jawarneh, P. Bellavista, F. Casimiro, A. Corradi and L. Foschini, "Cost-Effective Strategies for Provisioning NoSQL Storage Services in Support for Industry 4.0," 2018 IEEE Symposium on Computers and Communications (ISCC), Natal, 2018, pp. 01227-01232, doi: 10.1109/ISCC.2018.8538616.
