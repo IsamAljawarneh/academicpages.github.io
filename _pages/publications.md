@@ -42,3 +42,6 @@ author_profile: true
 
 <b>[Dynamic Identification of Participatory Mobile Health Communities]({% include base_path %}CN4IoT2017)</b><br>
 <b>Isam Mashhour Al Jawarneh</b>,  Paolo Bellavista, Carlos Roberto De RoltLuca Foschini <i>2017 International Conference on Cloud Networking for Internet of Things Systems</i>. <b>2017</b>.
+
+<b>[SACHER Project: A Cloud Platform and Integrated Services for Cultural Heritage and for Restoration]({% include base_path %}EAI2018)</b><br>
+Silvia Bertacchi, <b>Isam Mashhour Al Jawarneh</b>, Fabrizio Ivan Apollonio, Gianna Bertacchi, Michele Cancilla, Luca Foschini, Costantino Grana, Giuseppe Martuscelli, Rebecca Montanari <i>Proceedings of the 4th EAI International Conference on Smart Objects and Technologies for Social Good</i>. <b>2017</b>.
