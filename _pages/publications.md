@@ -39,3 +39,6 @@ author_profile: true
 
 <b>[Efficient spark-based framework for big geospatial data query processing and analysis]({% include base_path %}ISCC2017)</b><br>
 <b>Isam Mashhour Al Jawarneh</b>,  Paolo Bellavista, Antonio Corradi, Rebecca Montanari, Luca Foschini, Andrea Zanotti <i>2017 IEEE Symposium on Computers and Communications (ISCC)</i>. <b>2017</b>.
+
+<b>[Dynamic Identification of Participatory Mobile Health Communities]({% include base_path %}CN4IoT2017)</b><br>
+<b>Isam Mashhour Al Jawarneh</b>,  Paolo BellavistaCarlos Roberto De RoltLuca Foschini <i>2017 International Conference on Cloud Networking for Internet of Things Systems</i>. <b>2017</b>.
