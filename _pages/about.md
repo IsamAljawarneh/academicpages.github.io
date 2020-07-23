@@ -10,8 +10,7 @@ redirect_from:
 
 * I am a Postdoctoral Fellow in the [Department of Computer Science and Engineering](https://disi.unibo.it/it/) at the [University of Bologna](https://www.unibo.it/). [[Curriculum Vitae]](http://IsamAljawarneh.github.io/files/CV_ALJAWARNEH_2020.pdf).
 * I am a self-motivated divergent thinker with deep domain expertise.
-* 
-* 
+
 
 # Research Topics
 * Middleware for dynamic and adaptive services in big data management scenarios. Specifically, I am interested in working with spatiotemporal and time-series IoT data
@@ -19,7 +18,7 @@ redirect_from:
 * Context-aware computing. For example, context-aware recommender systems based on latest trending Deep Learning models.
 * Stream-static join processing for dynamic big data scenarios including smart cities, Industry 4.0 and industrial IoT (IIoT).
 * Distributed Extract, Transform and Load (ETL) processing
-* [Here](http://IsamAljawarneh.github.io/files/research_statement_Aljawarneh.pdf) my research statement.
+* [Here](http://IsamAljawarneh.github.io/files/ResearchStatement_ALJAWARNEH.pdf) my research statement.
 
 # Recent Research Activities
 * **March 2020 - present**: Postdoctoral Fellow at the Departament of Computer Science and Engineering.
