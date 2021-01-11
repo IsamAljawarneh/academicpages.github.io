@@ -11,6 +11,17 @@ redirect_from:
 * I am a Postdoctoral Fellow in the [Department of Computer Science and Engineering](https://disi.unibo.it/it/) at the [University of Bologna](https://www.unibo.it/). [[Curriculum Vitae]](http://IsamAljawarneh.github.io/files/CV_ALJAWARNEH_2020.pdf).
 * I am a self-motivated divergent thinker with deep domain expertise.
 
+I received a Doctor of Philosophy (PhD) degree in computer science and engineering from University of Bologna, Italy in 2020, with a minor in **Information Processing Systems** - **ING-INF/05**, with a specialization (cencentration through thematic areas of reserch) in **data science**. I am currently a postdoctoral researcher at University of Bologna. His research interests cover many aspects of "Data Science and Information Systems", with concentration of thematic areas that are listed below.
+
+my research specialisation generally is "data science" with a concentration in the following thematic areas (ERC sectors):
+
+PE6_10 : Web and information systems, database systems, information retrieval and digital libraries, data fusion
+
+Concentration in – Databases, data warehousing, business intelligence, big data analytics, time-series and temporal data management, big data visualisation. 
+PE6_11 : Machine learning, statistical data processing and applications using signal processing –
+
+Concentration in Machine Learning, Deep Learning and Data Mining
+SH3_12 : Geo-information and spatial data analysis
 
 # Research Topics
 * Middleware for dynamic and adaptive services in big data management scenarios. Specifically, I am interested in working with spatiotemporal and time-series IoT data
