@@ -13,7 +13,7 @@ redirect_from:
 
 I received a **Doctor of Philosophy (PhD)** degree in computer science and engineering from University of Bologna, Italy in 2020, with a minor in **Information Processing Systems** - **(ING-INF/05)**, with a specialization (concentration through thematic areas of research) in **(data science)**. I am currently a postdoctoral researcher at University of Bologna. My research interests cover many aspects of "Data Science and Information Systems", with concentration on thematic areas that are listed below.
 
-my research specialisation generally is "data science" with a concentration in the following thematic areas (ERC sectors):
+my research specialisation generally is "data science" with a concentration in the following thematic areas (**ERC sectors**):
 
 **PE6_10** : Web and information systems, database systems, information retrieval and digital libraries, data fusion
 
