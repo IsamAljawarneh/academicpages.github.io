@@ -18,6 +18,7 @@ my research specialisation generally is "data science" with a concentration in t
 **PE6_10** : Web and information systems, database systems, information retrieval and digital libraries, data fusion
 
 Concentration in – Databases, data warehousing, business intelligence, big data analytics, time-series and temporal data management, big data visualisation. 
+
 **PE6_11** : Machine learning, statistical data processing and applications using signal processing –
 
 Concentration in Machine Learning, Deep Learning and Data Mining
