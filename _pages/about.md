@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Postdoctoral Fellow in the [Department of Computer Science and Engineering](https://disi.unibo.it/it/) at the [University of Bologna](https://www.unibo.it/). [[Curriculum Vitae]](http://IsamAljawarneh.github.io/files/CV_ALJAWARNEH_2020.pdf).
+* I am a Postdoctoral Fellow in the [Department of Computer Science and Engineering](https://disi.unibo.it/it/) at the [Alma Mater Studiorum - Università di Bologna](https://www.unibo.it/). [[Curriculum Vitae]](http://IsamAljawarneh.github.io/files/CV_ALJAWARNEH_2020.pdf).
 * I am a self-motivated divergent thinker with deep domain expertise.
 
-I received a **Doctor of Philosophy (PhD)** degree in computer science and engineering from University of Bologna, Italy in 2020, with a minor in **Information Processing Systems** - **(ING-INF/05)**, with a specialization (concentration through thematic areas of research) in **(data science)**. I am currently a postdoctoral researcher at University of Bologna. My research interests cover many aspects of "Data Science and Information Systems", with concentration on thematic areas that are listed below.
+I received a **Doctor of Philosophy (PhD)** degree in computer science and engineering from Alma Mater Studiorum - Università di Bologna, Italy in 2020, with a minor in **Information Processing Systems** - **(ING-INF/05)**, with a specialization (concentration through thematic areas of research) in **(data science)**. I am currently a postdoctoral researcher at Alma Mater Studiorum - Università di Bologna. My research interests cover many aspects of "Data Science and Information Systems", with concentration on thematic areas that are listed below.
 
 my research specialisation generally is "data science" with a concentration in the following thematic areas (**ERC sectors**):
 
@@ -41,7 +41,7 @@ my research specialisation generally is "data science" with a concentration in t
 # Recent Research Activities
 * **March 2020 - present**: Postdoctoral Fellow at the Departament of Computer Science and Engineering.
   * **Supervisor**: [Professor Rebecca Montanari](https://www.unibo.it/sitoweb/rebecca.montanari/cv-en).
-  * **Team**: [Mobile Middleware Research Group](https://middleware.unibo.it/) in [Department of Computer Science and Engineering](https://disi.unibo.it/it/) at the [University of Bologna](https://www.unibo.it/en).
+  * **Team**: [Mobile Middleware Research Group](https://middleware.unibo.it/) in [Department of Computer Science and Engineering](https://disi.unibo.it/it/) at the [Alma Mater Studiorum - Università di Bologna](https://www.unibo.it/en).
    * **Project**: Design of scalable processing system for cultural heritage data relating. As part of the PON "RESEARCH AND INNOVATION" 2014 - 2020- IDEHA, CUP J46C18000440008.
   * **A brief**: I am responsible for designing highly-available and industry-grade prototype for efficiently managing geo-referenced human and vehicle mobility time-series data. I am designing novel indexing, partitioning and query processing algorithms that are aware of the multidimensional nature and shape of mobility data (three dimensions, spatial, temporal, and contextual). The novel contribution is the design of Cloud-based algorithms that operate on the confluence between spatial and time-series data. Most methods of the relevant art are operating in one of the two modes (either spatial or time-series) but applications of both together remain humble. Methods that I am developing will be able to achieve both spatial and temporal awareness synergistically. A probable scenario would be modelling how my support can be used to distribute tourist people around archeological sites in a proper manner to avoid crowd and to maintain safety.
   
